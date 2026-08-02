@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 -🎓 Pre-final year B.Tech CSE student at Amrita Vishwa Vidyapeetham.<br>- 💡 Interested in Data Analytics, Software Engineering, AI/ML.<br>- 🛠️ Skilled in Python, SQL, Git, GitHub Actions.<br>- 🚀 Built projects involving CI/CD, OCR, RAG, API development, and data visualization.<br>- 📚 Passionate about solving real-world problems through technology and continuously learning new tools.
 
 
